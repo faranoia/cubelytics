@@ -16,7 +16,7 @@
 - **24 sources** scraped in parallel:
 
 | Source |
-|---|---|
+|---|
 | **6b6t.org** |
 | **CavePvP** |
 | **centraltierlist.com** |
